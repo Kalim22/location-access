@@ -10,8 +10,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Download the expo application from Google Play store\n
-link: https://play.google.com/store/search?q=expo&c=apps&hl=en
+2. Download the expo application from Google Play store
+<br/>
+Link : https://play.google.com/store/search?q=expo&c=apps&hl=en
 
 3. Start the app
 
